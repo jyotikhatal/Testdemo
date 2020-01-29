@@ -9,6 +9,7 @@ interface ProductDetails1
 	default void net()
 	{
 		System.out.println("******DEFAULT_METHOD*****");
+		System.out.println("JYOTI");
 	}
 }
 class ProductConcept implements ProductDetails1
